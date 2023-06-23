@@ -1,0 +1,5 @@
+['remote "server-hub"']
+    url = https://dagshub.com/Piyushdhorey/DVC-Test.dvc
+    auth = basic
+    user = Piyushdhorey
+    password = e9b53d56fbf845cebf3349a630a9015839c91053
