@@ -1,3 +1,5 @@
+[core]
+    remote = server-hub
 ['remote "server-hub"']
     url = https://dagshub.com/Piyushdhorey/DVC-Test.dvc
     auth = basic
